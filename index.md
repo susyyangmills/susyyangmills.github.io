@@ -1,7 +1,5 @@
 ## EMED.AI: Emergency Medicine Artificial Intelligence
 
-![Image of fast.ai logo](images/logo.png)
+![Image of ai logo](images/Evolving-Relationship-Between-Artificial-Intelligence-and-Big-Data-825x500.jpg)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+[link to emed.ai](https://www.emed.ai).
