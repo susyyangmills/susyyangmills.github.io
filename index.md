@@ -2,4 +2,4 @@
 
 ![Image of ai logo](images/Evolving-Relationship-Between-Artificial-Intelligence-and-Big-Data-825x500.jpg)
 
-[link to emed.ai](https://emed.ai).
+[link to emed.ai](http://emed.ai).
